@@ -46,9 +46,8 @@ open up localhost:
 ### Techstack Used:
 
 - Python
-- Google API
+- Groq API
 - Streamlit
-- PaLM2
 - s2t
 - t2s
 
